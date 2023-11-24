@@ -9,7 +9,12 @@ h1 {
     color: white;
     font-family: Comic Sans MS, sans-serif;
 }
-button {
+button#invite {
+    font-size: larger;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+button#about {
     font-size: larger;
     margin-right: 20px;
     margin-left: 20px;
