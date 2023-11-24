@@ -16,7 +16,8 @@ h1 {
     font-family: Comic Sans MS, sans-serif;
 }
 #about {
-    background-color: rgb(44, 44, 44);
+    background-color: rgb(0, 0, 0);
+    border-color: white;
     margin: 10px;
     color: white;
     font-family: Comic Sans MS, sans-serif;
