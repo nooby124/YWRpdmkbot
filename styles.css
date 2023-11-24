@@ -11,5 +11,6 @@ h1 {
 }
 button {
     font-size: larger;
-    margin: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
