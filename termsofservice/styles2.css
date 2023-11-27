@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-size: x-large;
+}
+p {
+    color: white;
+    font-family: Comic Sans MS, sans-serif;
+}
+h1 {
+    color: white;
+    font-family: Comic Sans MS, sans-serif;
+}
+button#about {
+    font-size: larger;
+    margin-right: 20px;
+    margin-left: 20px;
+}
